@@ -1,0 +1,285 @@
+body {
+  text-align: center;
+}
+
+svg {
+  vertical-align: top;
+  max-width: 980px;
+}
+
+.default {
+  fill:#ffffff;
+  stroke:#000000;
+  stroke-width:0.5;
+  stroke-miterlimit:10;
+}
+
+.hello-text{
+  fill:#cae8d5;
+  stroke:#000000;
+}
+
+.hello-text-back {
+  fill:#84a9ac;
+  stroke:#000000;
+}
+
+.hello-text-highlight {
+  fill:#3b6978;
+  stroke:#000000;
+}
+
+.hello-text-shadow {
+  fill:#204051;
+  stroke:#000000;
+}
+
+.spring-text {
+  fill:#d9bf77;
+  stroke:#000000;
+}
+
+.spring-text-back {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.spring-text-dots {
+  fill:#2b580c;
+  stroke:#000000;
+}
+
+.spring-text-shadow {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.bird {
+  fill:#fae7cb;
+  stroke:#000000;
+}
+
+.bird-tail {
+  fill:#ff7272;
+  stroke:#000000;
+}
+
+.bird-feet {
+  fill:#ff7272;
+  stroke:#000000;
+}
+
+.bird-eye {
+  fill:#ff7272;
+  stroke:#000000;
+}
+
+.bird-wing {
+  fill:#ff7272;
+  stroke:#000000;
+}
+
+.tulip {
+  fill:#ffb385;
+  stroke:#000000;
+}
+
+.tulip-detail {
+  fill:#ef962d;
+  stroke:#000000;
+}
+
+.tulip-stem {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.tulip-leaves {
+  fill:#ffb385;
+  stroke:#000000;
+}
+
+.tulip-1 {
+  fill:#ffb385;
+  stroke:#000000;
+}
+
+.tulip-1-detail {
+  fill:#ef962d;
+  stroke:#000000;
+}
+
+.tulip-leaves-1 {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.tulip-leaves-1-detail {
+  fill:#ef962d;
+  stroke:#000000;
+}
+
+.tulip-2 {
+  fill:#ffb385;
+  stroke:#000000;
+}
+
+.tulip-2-detail {
+  fill:#ef962d;
+  stroke:#000000;
+}
+
+.tulip-stem-2 {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.tulip-leaves-2-detail {
+  fill:#ffb385;
+  stroke:#000000;
+}
+
+.tulip-3 {
+  fill:#e6739f;
+  stroke:#000000;
+}
+
+.tulip-3-detail {
+  fill:#ffb2a7;
+  stroke:#000000;
+}
+
+.tulip-3-stem {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.tulip-3-leaves {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.large-tulip {
+  fill:#ffb385;
+  stroke:#000000;
+}
+
+.large-tulip-detail {
+  fill:#ef962d;
+  stroke:#000000;
+}
+
+.large-tulip-leaves{
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.large-tulip-leaves-details {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.daisy {
+  fill:#e6739f;
+  stroke:#000000;
+}
+
+.daisy-middle {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.daisy-detail {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.daisy-stem {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.daisy-leaves {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.daisy-1 {
+  fill:#e6739f;
+  stroke:#000000;
+}
+
+.daisy-1-middle {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.daisy-1-detail {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.daisy-1-stem {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.stem-1 {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.leaves-1 {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.leaves-2 {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.leaves-2-detail {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.leaves-3 {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.stem-3 {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.large-leaf {
+  fill:#2b580c;
+  stroke:#000000;
+}
+
+.large-leaf-detail {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.large-leaf-2 {
+  fill:#2b580c;
+  stroke:#000000;
+}
+
+.large-leaf-2-detail {
+  fill:#d8ebb5;
+  stroke:#000000;
+}
+
+.large-leaf-3 {
+  fill:#639a67;
+  stroke:#000000;
+}
+
+.large-leaf-3-detail {
+  fill:#ffffff;
+  stroke:#000000;
+}
