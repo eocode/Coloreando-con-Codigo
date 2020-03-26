@@ -1,4 +1,4 @@
-# Corouring-with-code
+# Colouring with code
 
 * HTML
 * CSS
