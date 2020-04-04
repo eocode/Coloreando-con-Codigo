@@ -1,5 +1,3 @@
-# Colouring with code
-
 * HTML
 * CSS
 
